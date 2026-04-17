@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "mainReadersAndWriters",
+      "mainClass": "u07.examples.mainReadersAndWriters",
+      "buildTarget": "file:/C:/Users/stefano.babini5/Documents/repos/asmd-public-models/?id=root",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ReadersAndWriters",
+      "mainClass": "u07.examples.ReadersAndWriters",
+      "buildTarget": "file:/C:/Users/stefano.babini5/Documents/repos/asmd-public-models/?id=root",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
